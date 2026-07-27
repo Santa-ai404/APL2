@@ -1,4 +1,4 @@
 # APL2
 
-This repo contains lab exercises.
+This repository contains 5th Semester's lab exercises.
 
